@@ -9,13 +9,13 @@ This is a very basic visual introduction to the concepts behind a public / priva
 Get the code:
 
 ```
-git clone https://github.com/babe8901/assymetric-cryptography.git
+git clone https://github.com/babe8901/asymmetric-cryptography.git
 ```
 
 Install dependencies:
 
 ```
-cd assymetric-cryptography
+cd asymmetric-cryptography
 npm install
 ```
 
