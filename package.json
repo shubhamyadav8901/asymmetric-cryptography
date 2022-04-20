@@ -1,0 +1,45 @@
+{
+  "name": "asymmetric-cryptography",
+  "description": "A web-based demonstration of publick key / private key concepts.",
+  "author": {
+    "name": "Shubham Yadav"
+  },
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "version": "0.0.1",
+  "keywords": [
+    "public key",
+    "private key",
+    "assymetric cryptography"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/babe8901/asymmetric-cryptography.git"
+  },
+  "bugs": {
+    "url": "https://github.com/babe8901/asymmetric-cryptography/issues"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "async": "^3.2.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.3",
+    "debug": ">=2.6.9",
+    "express": "^4.13.4",
+    "i18n": "^0.8.6",
+    "messageformat": "^2.3.0",
+    "morgan": ">=1.9.1",
+    "mustache": "^4.2.0",
+    "pug": "^3.0.1",
+    "serve-favicon": "^2.3.0",
+    "sprintf-js": "^1.1.2"
+  },
+  "homepage": "https://github.com/babe8901/asymmetric-cryptography#readme",
+  "maintainers": [
+    {
+      "name": "shubham",
+      "email": "luckyshubham16@gmail.com"
+    }
+  ]
+}
